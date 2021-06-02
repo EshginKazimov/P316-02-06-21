@@ -2,4 +2,4 @@
 
 Tapshiriq:
 
-Bugun elediklerimizi tekrar etmek ve Product-unt Index sehfesini yazmaq (Relation-da olan datalardan: Image-in birini gostermek, Category-nin ise hem child hem parent-ini <ul> taginda gostermek)
+Bugun elediklerimizi tekrar etmek ve Product-unt Index sehfesini yazmaq (Relation-da olan datalardan: Image-in birini gostermek, Category-nin ise hem child hem parent-ini "Ul" taginda gostermek)
